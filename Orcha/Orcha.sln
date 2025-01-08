@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchaShop.Domain", "Orcha.Domain\OrchaShop.Domain.csproj", "{E85E3AB0-CA12-4FBB-AC19-A5336DE88F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchaShop.Application", "Orcha.Application\OrchaShop.Application.csproj", "{8E02C4D8-6925-49ED-BA21-E554E71D9D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchaShop.Infrastructure", "Orcha.Infrastructure\OrchaShop.Infrastructure.csproj", "{E3598A11-F6EB-491E-872A-93D8B28CED98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrchaShop.Domain", "OrchaShop.Domain", "{FC13E206-4ACF-4067-B396-EC3220C69930}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrchaShop.Application", "OrchaShop.Application", "{DAA9E87E-42BE-4C12-B623-96B0E20F3876}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrchaShop.Infrastrucure", "OrchaShop.Infrastrucure", "{143C0CD0-10E4-4BCB-9767-4D3D8B51B57A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrchaShop.Presentation", "OrchaShop.Presentation", "{4C23AB99-B949-4545-BC1C-0611AED9A2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchaShop.Presentation", "OrchaShop.Presentation\OrchaShop.Presentation.csproj", "{1625A73B-3E58-4530-AD52-0328F688601E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85E3AB0-CA12-4FBB-AC19-A5336DE88F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85E3AB0-CA12-4FBB-AC19-A5336DE88F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85E3AB0-CA12-4FBB-AC19-A5336DE88F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85E3AB0-CA12-4FBB-AC19-A5336DE88F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E02C4D8-6925-49ED-BA21-E554E71D9D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E02C4D8-6925-49ED-BA21-E554E71D9D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E02C4D8-6925-49ED-BA21-E554E71D9D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E02C4D8-6925-49ED-BA21-E554E71D9D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3598A11-F6EB-491E-872A-93D8B28CED98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3598A11-F6EB-491E-872A-93D8B28CED98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3598A11-F6EB-491E-872A-93D8B28CED98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3598A11-F6EB-491E-872A-93D8B28CED98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1625A73B-3E58-4530-AD52-0328F688601E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1625A73B-3E58-4530-AD52-0328F688601E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1625A73B-3E58-4530-AD52-0328F688601E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1625A73B-3E58-4530-AD52-0328F688601E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E85E3AB0-CA12-4FBB-AC19-A5336DE88F59} = {FC13E206-4ACF-4067-B396-EC3220C69930}
+		{8E02C4D8-6925-49ED-BA21-E554E71D9D97} = {DAA9E87E-42BE-4C12-B623-96B0E20F3876}
+		{E3598A11-F6EB-491E-872A-93D8B28CED98} = {143C0CD0-10E4-4BCB-9767-4D3D8B51B57A}
+		{1625A73B-3E58-4530-AD52-0328F688601E} = {4C23AB99-B949-4545-BC1C-0611AED9A2DF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0312437-C176-42AC-A718-9EAA3B652255}
+	EndGlobalSection
+EndGlobal

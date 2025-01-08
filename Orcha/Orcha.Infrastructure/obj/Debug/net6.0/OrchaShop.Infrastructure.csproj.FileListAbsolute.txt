@@ -1,0 +1,12 @@
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\bin\Debug\net6.0\OrchaShop.Infrastructure.deps.json
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\bin\Debug\net6.0\OrchaShop.Infrastructure.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\bin\Debug\net6.0\ref\OrchaShop.Infrastructure.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\bin\Debug\net6.0\OrchaShop.Infrastructure.pdb
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\OrchaShop.Infrastructure.csproj.AssemblyReference.cache
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\OrchaShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\OrchaShop.Infrastructure.AssemblyInfoInputs.cache
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\OrchaShop.Infrastructure.AssemblyInfo.cs
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\OrchaShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\OrchaShop.Infrastructure.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\ref\OrchaShop.Infrastructure.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Infrastructure\obj\Debug\net6.0\OrchaShop.Infrastructure.pdb

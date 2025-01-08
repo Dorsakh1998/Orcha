@@ -1,0 +1,12 @@
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\bin\Debug\net6.0\OrchaShop.Domain.deps.json
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\bin\Debug\net6.0\OrchaShop.Domain.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\bin\Debug\net6.0\ref\OrchaShop.Domain.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\bin\Debug\net6.0\OrchaShop.Domain.pdb
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\OrchaShop.Domain.csproj.AssemblyReference.cache
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\OrchaShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\OrchaShop.Domain.AssemblyInfoInputs.cache
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\OrchaShop.Domain.AssemblyInfo.cs
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\OrchaShop.Domain.csproj.CoreCompileInputs.cache
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\OrchaShop.Domain.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\ref\OrchaShop.Domain.dll
+D:\D.Khaleghi\Orch_Project\Orcha\Orcha\Orcha.Domain\obj\Debug\net6.0\OrchaShop.Domain.pdb
